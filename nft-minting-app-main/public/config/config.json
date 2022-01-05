@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5b9699dd0c506d2d8742450bd56b542cd785a3e2",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xee913d404b4c5d15dbb37a23a4b4b10468433fc9da453c1996d200b8d6cf12a7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mushroom Maniacs",
+  "SYMBOL": "MMnft",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mushroom-maniacs-v2",
+  "SHOW_BACKGROUND": true
+}
